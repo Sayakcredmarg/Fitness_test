@@ -162,7 +162,8 @@ class ProfileActivity : AppCompatActivity() {
 //
 //import android.os.Bundle
 //import androidx.appcompat.app.AppCompatActivity
-//import com.example.fitnessapp.databinding.ActivityProfileBinding
+//import com.example.fitness.R
+//import com.example.fitness.databinding.ActivityProfileBinding
 //import com.github.mikephil.charting.data.Entry
 //import com.github.mikephil.charting.data.LineData
 //import com.github.mikephil.charting.data.LineDataSet
@@ -199,8 +200,8 @@ class ProfileActivity : AppCompatActivity() {
 //
 //        // Creating dataset and styling it
 //        val lineDataSet = LineDataSet(entries, "Workout Progress")
-//        lineDataSet.color = getColor(R.color.teal_200)
-//        lineDataSet.setCircleColor(getColor(R.color.purple_200))
+//        lineDataSet.color = getColor(R.color.colorAccent)
+//        lineDataSet.setCircleColor(getColor(R.color.teal))
 //        lineDataSet.circleRadius = 5f
 //        lineDataSet.lineWidth = 2f
 //
